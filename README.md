@@ -5,8 +5,9 @@ The tutorial showcases how to use Geolocator and sqflite flutter plugin.
 
 You can read about this tutorial: 
 
-##1. GET USER LOCATION IN FLUTTER WITH GEOLOCATOR PLUGIN (https://instacodeblog.com/get-user-location-in-flutter-with-geolocator-plugin/)
-##2. STORING USER LOCATION USING SQLITE DATABASE IN FLUTTER (https://instacodeblog.com/storing-user-location-using-sqlite-database-in-flutter/)
+1. GET USER LOCATION IN FLUTTER WITH GEOLOCATOR PLUGIN (https://instacodeblog.com/get-user-location-in-flutter-with-geolocator-plugin/)
+
+2. STORING USER LOCATION USING SQLITE DATABASE IN FLUTTER (https://instacodeblog.com/storing-user-location-using-sqlite-database-in-flutter/)
 
 ## Getting Started
 
